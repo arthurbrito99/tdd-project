@@ -1,0 +1,2 @@
+Teste de unidade verifica os módulos ou unidades individuais do sistema e são escritos da perspectiva dos programadores.
+Teste funcional verifica os recursos ou as funcionalidades do sistema e são escritos da perspectiva do usuário.
