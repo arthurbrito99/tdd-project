@@ -1,0 +1,1 @@
+O processo consiste em escrever os testes, ver se os testes passam. Analisar se o código necessita de refatoração e entregar o código mínimo viável.
